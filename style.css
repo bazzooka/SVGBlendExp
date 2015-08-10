@@ -1,0 +1,21 @@
+#line1{
+  fill: rgb(189,62,81);
+  opacity: 0.6;
+ mix-blend-mode: luminosity;
+}
+
+#line2{
+  fill: black;
+  opacity: 0.2;
+}
+
+#line3{
+  fill: rgb(200,62,81);
+  opacity: 0.8;
+ mix-blend-mode: color-dodge;
+}
+
+#line4{
+  fill: black;
+  opacity: 0.1;
+}
